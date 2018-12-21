@@ -4,7 +4,7 @@ clear;
 tx=2*10^-3; % given in dbm(from the XBee data sheet)
 eta=2; %for free space eta=2(path loss exponent)
 
-dd=0;
+
 f=2.4*10^9;
 gt=1;
 gr=1;
